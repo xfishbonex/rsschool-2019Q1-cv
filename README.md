@@ -1,2 +1,1 @@
-# rsschool-2019Q1-cv
-markdown cv
+https://xfishbonex.github.io/rsschool-2019Q1-cv/cv
